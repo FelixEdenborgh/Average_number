@@ -1,0 +1,11 @@
+C:\Users\Felix\Documents\C# Prodjects\Average_number\bin\Debug\netcoreapp3.0\Average_number.exe
+C:\Users\Felix\Documents\C# Prodjects\Average_number\bin\Debug\netcoreapp3.0\Average_number.deps.json
+C:\Users\Felix\Documents\C# Prodjects\Average_number\bin\Debug\netcoreapp3.0\Average_number.runtimeconfig.json
+C:\Users\Felix\Documents\C# Prodjects\Average_number\bin\Debug\netcoreapp3.0\Average_number.runtimeconfig.dev.json
+C:\Users\Felix\Documents\C# Prodjects\Average_number\bin\Debug\netcoreapp3.0\Average_number.dll
+C:\Users\Felix\Documents\C# Prodjects\Average_number\bin\Debug\netcoreapp3.0\Average_number.pdb
+C:\Users\Felix\Documents\C# Prodjects\Average_number\obj\Debug\netcoreapp3.0\Average_number.csprojAssemblyReference.cache
+C:\Users\Felix\Documents\C# Prodjects\Average_number\obj\Debug\netcoreapp3.0\Average_number.AssemblyInfoInputs.cache
+C:\Users\Felix\Documents\C# Prodjects\Average_number\obj\Debug\netcoreapp3.0\Average_number.AssemblyInfo.cs
+C:\Users\Felix\Documents\C# Prodjects\Average_number\obj\Debug\netcoreapp3.0\Average_number.dll
+C:\Users\Felix\Documents\C# Prodjects\Average_number\obj\Debug\netcoreapp3.0\Average_number.pdb
